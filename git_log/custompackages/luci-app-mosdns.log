@@ -1,0 +1,9 @@
+<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/sbwml/luci-app-mosdns/compare/6a781327e18d3a2dbe1ec1aacb63449633246ade...94c698b584e07af9ebd058a118725aeced7a8e11)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+94c698b|sbwml|Fri May 1 09:45:16 2026 +0800|mosdns: add adblock_set database plugin
+</details>
