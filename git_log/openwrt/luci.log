@@ -1,12 +1,15 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/luci/compare/650a6ca36d786059aa7f85fbe0816c015c7134c1...61fbfe65e828d5b98f0688fd359f57ee624f10c5)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/luci/compare/61fbfe65e828d5b98f0688fd359f57ee624f10c5...cd18b8ef05a6f2793e2672943b3803bf122eb447)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-61fbfe65e8|Dirk Brenken|Sat May 9 21:42:22 2026 +0200|luci-app-travelmate: release 2.4.5-1
-e7fd22b28a|Hannu Nyman|Sat May 9 11:21:42 2026 +0300|treewide: backport translations from master
-7d86d69b7e|Hannu Nyman|Sat May 9 10:42:34 2026 +0300|build: enable packaging of Lao, Georgian and Latvian translations
-e5f2fb11a4|Joshua Vlantis|Mon May 4 07:20:08 2026 +0200|luci-app-strongswan-swanctl: fix Tunnel/Remote modal crash
+cd18b8ef05|Bastiaan Stougie|Sat Mar 21 20:46:26 2026 +0100|luci-proto-batman-adv: protocol batadv_vlan
+0b90dc6c78|Claudio Mezzasalma|Wed Apr 22 19:10:08 2026 +0200|luci-app-openvpn: fix configuration name column
+d5129a1c8a|Paul Donald|Thu May 14 15:11:39 2026 +0300|luci-app-dockerman: select log_driver for new containers
+2beeed0772|Paul Donald|Thu May 14 15:08:50 2026 +0300|luci-app-dockerman: links for port bindings
+58820a0fd0|Paul Donald|Thu May 14 15:00:45 2026 +0300|luci-app-dockerman: network aliases feature
+eaf3b8282d|Paul Donald|Thu May 14 14:56:22 2026 +0300|luci-app-dockerman: fixes
+e9ebca7598|Dirk Brenken|Sun May 10 21:31:10 2026 +0200|luci-app-openvpn: security fix
 </details>
