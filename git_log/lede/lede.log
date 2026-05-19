@@ -1,11 +1,13 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/ad7400d3368c083c010f7c08d0a3fd7381bf3d79...ec15f22ed68d2abf3426d04b91be10f2da3cbd86)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/ec15f22ed68d2abf3426d04b91be10f2da3cbd86...6a3eb646114f1e62a3bac34e8b3e06341cd3fc6a)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-ec15f22ed|MilesPoupart|Tue May 12 21:06:08 2026 +0800|kernel: bump 6.12 to 6.12.87
-b227398e1|coolsnowwolf|Tue May 12 12:28:31 2026 +0800|kernel: bump 6.18 to 6.18.29
-a5fecc2b6|coolsnowwolf|Tue May 12 12:22:12 2026 +0800|kernel: enable CONFIG_NETFILTER_XTABLES_LEGACY for kernel 6.18
+6a3eb6461|coolsnowwolf|Sun May 17 16:08:16 2026 +0800|rpcd: backport ucode fix
+b0c655430|coolsnowwolf|Sun May 17 15:56:01 2026 +0800|Version Update to R26.05.20
+a10beb3e7|coolsnowwolf|Sun May 17 15:54:22 2026 +0800|kernel: bump all to latest HEAD
+64a11b6ab|Internet1235|Sat May 16 19:00:10 2026 +0800|kernel: bump 6.18 to 6.18.31
+c737c3382|MilesPoupart|Thu May 14 22:01:18 2026 +0800|kernel: bump 6.12 to 6.12.88
 </details>
