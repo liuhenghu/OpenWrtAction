@@ -1,11 +1,11 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/f04c2c3f2fef157a200454c564d9a561cac650f3...59024567efc118e281697be064d881433e1b9e5f)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/59024567efc118e281697be064d881433e1b9e5f...20db1985ce894be8669ec4c7e557eed57d0853d9)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-59024567|David Mandy|Wed Jul 1 00:56:46 2026 +0800|ci: optimize code (#4411)
-2142d1f1|A-BO|Tue Jun 30 23:47:40 2026 +0800|luci: 26.7.1
-4633ee7b|A-BO|Tue Jun 30 23:32:12 2026 +0800|luci: Disable IPv4 rp_filter for TPROXY compatibility
+20db1985|ShanStone|Mon Jul 6 22:04:21 2026 +0800|luci: eliminate tr process in insert_nftset function
+797704c5|wybb|Mon Jul 6 01:07:20 2026 +0800|luci: fix hy2 link import bandwidth defaults (#4414)
+22450c2a|lwb1978|Sat Jul 4 19:38:53 2026 +0800|luci: fix and optimize subscribe
 </details>
