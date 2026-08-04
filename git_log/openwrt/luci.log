@@ -1,10 +1,12 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/luci/compare/37279809c2ecdb61ff5110fbc0a12159e8510eef...b61f907ec406d57ca7d2c49dad6e7e7436bbf67e)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/luci/compare/b61f907ec406d57ca7d2c49dad6e7e7436bbf67e...8a80dd11afe020239d4f607a1765004c82d13c8d)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-b61f907ec4|Hannu Nyman|Tue Jul 28 23:30:34 2026 +0300|luci-lua-runtime: update timezone data to 2026c
-8faf80b5dc|Hannu Nyman|Tue Jul 28 23:30:18 2026 +0300|luci-base: update timezone data to 2026c
+8a80dd11af|Dirk Brenken|Sun Aug 2 20:35:15 2026 +0200|luci-app-adblock: sync with release 4.5.7-1
+96c588b7c1|Dirk Brenken|Fri Jul 31 15:51:55 2026 +0200|luci-app-travelmate: fix rpcd file access on symlinked /var/run
+12b2260609|Dirk Brenken|Fri Jul 31 15:30:12 2026 +0200|luci-app-banip: fix rpcd file access on symlinked /var/run
+b1e84f4f7e|Dirk Brenken|Fri Jul 31 14:58:42 2026 +0200|luci-app-adblock: fix rpcd file access on symlinked /var/run
 </details>
