@@ -1,10 +1,11 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/6c92c15df3dce19c73eb7d986f48cf6b2304306f...ce3cc3d2a3dab2c6830e27cdeabe882e08d8ce3b)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/ce3cc3d2a3dab2c6830e27cdeabe882e08d8ce3b...73c1191ebdf2282685a9430c0f3a7531009391e7)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-ce3cc3d2a|Rosen Penev|Wed May 18 20:11:38 2022 -0700|linux/modules: add ksmbd support
-f9dcc54b2|Miles Poupart|Fri Jul 31 18:00:02 2026 +0800|kernel: update 6.12 to 6.12.100
+73c1191eb|aiamadeus|Tue Aug 4 18:05:09 2026 +0800|rockchip: package 3588 NPU driver
+64f71ae69|coolsnowwolf|Mon Aug 3 19:08:36 2026 +0800|rockchip: add NanoPi R28S support
+5730af3f1|aiamadeus|Mon Aug 3 18:01:19 2026 +0800|uboot-rockchip: update to 2026.07
 </details>
