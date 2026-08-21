@@ -1,12 +1,10 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/8882f211bb19277d37685456f622caed95e102bd...ed936406799101d54073119cb7dd4b72100a4b25)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/ed936406799101d54073119cb7dd4b72100a4b25...81636b77c09434d78eb8dcfd7900347fd5c73d41)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-ed9364067|Miles Poupart|Mon Aug 17 11:46:44 2026 +0800|kernel: bump 6.12 to 6.12.103 (#14108)
-bf069ebff|Qingfang Deng|Tue Jul 28 09:20:05 2026 +0800|ppp: fix precompiled filter option
-ba810a6c9|Kenneth Kasilag|Sun Jun 21 22:37:38 2026 +0000|qualcommbe: use kernel 6.18 by default
-433524bda|coolsnowwolf|Fri Aug 14 13:44:43 2026 +0800|odhcpd: update to Git HEAD (2026-06-28) 68f382690bfa statefiles: escape client hostnames in the lease state file
+81636b77c|=?UTF-8?q?Mario=20Andr=C3=A9s=20P=C3=A9rez?=|Sun Dec 14 18:45:10 2025 +0100|sunxi: sync DT target profiles names
+e6cc2bedf|John Audia|Thu Dec 25 08:31:13 2025 -0500|nat46: fix reproducible-build failure
 </details>
