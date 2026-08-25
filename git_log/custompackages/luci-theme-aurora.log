@@ -1,11 +1,10 @@
 <details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/eamonxg/luci-theme-aurora/compare/58d6498da7c65fd0d40c4d0d0f1d47453cad1474...b76241e4a370215ab4805ddfaa303388f38371d1)  
+#### [:mega: Full Changelog. ](https://github.com/eamonxg/luci-theme-aurora/compare/b76241e4a370215ab4805ddfaa303388f38371d1...411c19ff1646cdfc8d1e8f1f6d93da9e8f02ee11)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-b76241e|Eamon|Thu Aug 20 16:19:21 2026 +0800|feat: palette recents and a ">" logout command (1.2.4)
-b564a20|Eamon|Tue Aug 18 11:52:05 2026 +0800|docs: re-measure the router doc and correct what drifted
-2917edc|Eamon|Tue Aug 18 11:51:49 2026 +0800|perf: add full-load and dispatch benchmark harnesses
+411c19f|Eamon|Sun Aug 23 13:41:38 2026 +0800|fix: even out stock-page spacing and centre checkboxes on their text
+2ec31f6|Eamon|Fri Aug 21 14:19:10 2026 +0800|docs: add Chinese development and router guides
 </details>
