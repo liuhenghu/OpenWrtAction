@@ -1,10 +1,11 @@
 <details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/eamonxg/luci-theme-aurora/compare/b76241e4a370215ab4805ddfaa303388f38371d1...411c19ff1646cdfc8d1e8f1f6d93da9e8f02ee11)  
+#### [:mega: Full Changelog. ](https://github.com/eamonxg/luci-theme-aurora/compare/411c19ff1646cdfc8d1e8f1f6d93da9e8f02ee11...9dd9dc1d974155b985cb6f3a08c05c7e59413e85)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-411c19f|Eamon|Sun Aug 23 13:41:38 2026 +0800|fix: even out stock-page spacing and centre checkboxes on their text
-2ec31f6|Eamon|Fri Aug 21 14:19:10 2026 +0800|docs: add Chinese development and router guides
+9dd9dc1|Eamon|Wed Aug 26 18:27:01 2026 +0800|refactor: source the dev tooling from the shared devkit
+e748f7c|Eamon|Wed Aug 26 17:43:55 2026 +0800|refactor: source the client router from the shared devkit
+3ff488f|Eamon|Wed Aug 26 16:03:54 2026 +0800|chore: add vertical agent workflows with approval and review gates
 </details>
