@@ -1,15 +1,14 @@
 <details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/cc074ed776579849ae68aec303eb85867b4dc4ee...12b33906ae89f62db5ee3a4d52c1b3294071b2c7)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/12b33906ae89f62db5ee3a4d52c1b3294071b2c7...4ddcc0ff9338b512b8ad2d25d2b44b1be97d912c)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-12b3390|A-BO|Mon Aug 31 23:05:40 2026 +0800|luci: optimize shunt route
-3f9339a|SwordKing|Mon Aug 31 17:45:45 2026 +0800|luci: optimize haproxy config (#1252)
-45631b4|A-BO|Fri Aug 28 09:53:47 2026 +0800|luci: support hysteria2 realm `portMapping`
-fb2a20b|A-BO|Thu Aug 27 23:56:18 2026 +0800|luci: optimize the geoview cache cleanup logic
-93a3fa5|handsomeji|Thu Aug 27 23:37:46 2026 +0800|luci: re-add direct DNS option
-0179546|handsomeji|Sun Aug 30 00:35:18 2026 +0800|luci: adjust and optimize
-98fc727|itoywh|Fri Aug 28 18:11:22 2026 +0800|luci: clarify psw2_vps log - gate LB log on balancing_enable, restore anti-loop log (#1247)
+4ddcc0f|SwordKing|Thu Sep 3 01:07:50 2026 +0800|luci: fix Xray blackhole when remote_dns_detour=direct
+5e5fc26|handsomeji|Wed Sep 2 19:47:35 2026 +0800|luci: 26.9.2
+b4d5f97|handsomeji|Wed Sep 2 19:25:20 2026 +0800|luci: client: add snell with Sing-Box v1.14.0
+97d770d|handsomeji|Wed Sep 2 18:33:47 2026 +0800|luci: server: add snell with Sing-Box v1.14.0
+21976cc|A-BO|Wed Sep 2 11:20:17 2026 +0800|luci: fix geo view
+91c0fd7|handsomeji|Wed Sep 2 18:35:09 2026 +0800|luci: optimize
 </details>

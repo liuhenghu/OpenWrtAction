@@ -1,14 +1,16 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/cb25935e08f6be5929362d6b67a9550415ebbe9e...2155bdc22b9ace9225207de263de27ef849d57e8)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/2155bdc22b9ace9225207de263de27ef849d57e8...8347d3034f2ec6ef87dd1eca41a93017ae85fc4e)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-2155bdc2|A-BO|Mon Aug 31 23:04:15 2026 +0800|luci: optimize shunt route
-7d1d1cef|A-BO|Mon Aug 31 16:15:42 2026 +0800|luci: repair and optimize
-2e5e6b9a|A-BO|Sun Aug 30 15:47:12 2026 +0800|luci: adjust and optimize
-bbd09893|A-BO|Sat Aug 29 22:38:05 2026 +0800|luci: enhance backup and restore functionality
-93695ef4|lwb1978|Sat Aug 29 02:24:49 2026 +0800|luci: optimize filter node ip
-3438bb2b|A-BO|Fri Aug 28 16:52:46 2026 +0800|luci: set sing-box fakedns `remote_rewrite_ttl` to fixed 30s
+8347d303|A-BO|Wed Sep 2 21:52:52 2026 +0800|luci: add snell with Sing-Box v1.14.0
+0572d47c|A-BO|Wed Sep 2 21:20:59 2026 +0800|luci: optimize
+4245ff30|A-BO|Wed Sep 2 21:02:54 2026 +0800|luci: add `http client` in sing-box
+15de1532|A-BO|Wed Sep 2 20:36:29 2026 +0800|luci: clean up code
+7bfd1739|A-BO|Wed Sep 2 11:20:17 2026 +0800|luci: fix geo view
+56adb0e2|A-BO|Tue Sep 1 10:40:58 2026 +0800|luci: 26.9.1
+5acbe52d|A-BO|Tue Sep 1 10:38:38 2026 +0800|luci: update WeChat C2C Xray domain exclusion to regex
+41a38af7|A-BO|Tue Sep 1 10:14:33 2026 +0800|luci: update default rules
 </details>
